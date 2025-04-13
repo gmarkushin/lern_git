@@ -1,0 +1,4 @@
+D:
+cd D:\learn\java\git_learn
+javac -d out\ -sourcepath src\ src\pacOne\Main.java
+java -cp out\ pacOne.Main
